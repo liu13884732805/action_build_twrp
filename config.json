@@ -1,7 +1,7 @@
 {
   "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
   "twrp_branch": "twrp-8.1",
-  "git_username": "liuwq",
+  "git_username": "liu13884732805",
   "git_email": "",
   "use_own_dt": true,
   "dt_url": "HK4567/twrp_device_oppo_OP4AED",
